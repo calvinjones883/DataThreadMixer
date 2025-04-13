@@ -1,0 +1,23 @@
+
+---
+
+### **3. 21_LogClusterScope**  
+**Description:**  
+A parser that groups similar log messages, detects bursts, and highlights trending keywords.
+
+#### **README.md**
+```markdown
+# LogClusterScope - Repetition & Spike Analyzer
+
+LogClusterScope gives you a frequency view of your logs by clustering repeating messages and time-based anomalies.
+
+## Features
+- Frequency heatmap  
+- Burst detection  
+- Keyword pattern matching  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogClusterScope.git
+cd 21_LogClusterScope
+python analyze.py
