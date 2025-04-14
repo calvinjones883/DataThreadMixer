@@ -1,0 +1,23 @@
+
+---
+
+### **4. 21_RealTimeFlowGrid**  
+**Description:**  
+Displays real-time numeric data in a responsive, scrollable chart ideal for dashboards or metric feeds.
+
+#### **README.md**
+```markdown
+# RealTimeFlowGrid - Live Data Stream Chart
+
+RealTimeFlowGrid visualizes live values from sensors, simulations, or metrics into a scrolling time-based chart.
+
+## Features
+- Smooth scrollable line chart  
+- Adjustable refresh rate  
+- Built on Matplotlib  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_RealTimeFlowGrid.git
+cd 21_RealTimeFlowGrid
+python visualize.py
