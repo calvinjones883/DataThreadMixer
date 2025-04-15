@@ -1,0 +1,23 @@
+
+---
+
+### **2. 21_APITraceMonitor**  
+**Description:**  
+Watches multiple endpoints and logs their response times, status codes, and failures over time.
+
+#### **README.md**
+```markdown
+# APITraceMonitor - Endpoint Health Logger
+
+APITraceMonitor is a tool to track multiple APIs for uptime, latency drift, and server errors.
+
+## Features
+- Multi-endpoint scanning  
+- Tabular CLI output  
+- Export logs to JSON/CSV  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_APITraceMonitor.git
+cd 21_APITraceMonitor
+python monitor.py
